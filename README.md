@@ -1,1 +1,1 @@
-# exemplogit
+# Repositório criado apenas para exemplificações.
